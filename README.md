@@ -8,5 +8,5 @@
 - [SPA/ENG - Spanish Vocabulary](https://play.google.com/store/apps/details?id=spaen.tymcomp.tymcomp.spaen "SPA/ENG - Spanish Vocabulary")
 - [TUR/ENG - İngilizce Kelime Ezberleme](https://play.google.com/store/apps/details?id=com.tymcomp.tymcomp.ucbinkelimeapp "TUR/ENG - İngilizce Kelime Ezberleme")
 
-
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
